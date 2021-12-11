@@ -3,7 +3,7 @@
 # dependencies
 /Backend/node_modules
 /Frontend/node_modules
-/Bacend/assets
+/Backend/assets
 # testing
 /coverage
 
